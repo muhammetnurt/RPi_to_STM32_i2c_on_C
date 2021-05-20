@@ -1,4 +1,5 @@
 Raspberry Pi ile STM32 için i2c Haberleşmesi
+Muhammetnur TOPLU <muhammetnurtoplu@hotmail.com> 
 
 Çalışma C dili ile yapılmıştır.
 Kullanılan kütüphanler temel kütüphanelerdir. Bu sayede çalışmak isteyen herkes dosyaları yükleyerek çalışabilir. 
